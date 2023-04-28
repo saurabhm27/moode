@@ -94,7 +94,7 @@ jQuery(document).ready(function($){ 'use strict';
 
 	//Bback button on header
 	$('#config-back a').click(function() {
-		if ($(this).attr('href') == '/index.php') {
+		if ($(this).attr('href') == '/index.html') {
 			$('#config-tabs').hide();
 		}
 	});

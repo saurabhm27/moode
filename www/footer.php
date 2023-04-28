@@ -25,25 +25,25 @@
 <div id="about-modal" class="modal modal-sm hide" tabindex="-1" role="dialog" aria-labelledby="about-modal-label" aria-hidden="true">
 	<div class="modal-body">
 		<button aria-label="Close" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-		<p style="text-align:center;font-size:40px;font-weight:500;letter-spacing:-2px;margin-top:2px">m<span style="color:#d35400;line-height:12px">oO</span>de<span style="font-size:12px;position:relative;top:-15px;left:-3px;">™</span></p>
-			<p>Moode Audio Player is a derivative of the wonderful WebUI audio player client for MPD originally designed and coded by Andrea Coiutti and Simone De Gregori, and subsequently enhanced by early efforts from the RaspyFi/Volumio projects.</p>
+		<p style="text-align:center;font-size:40px;font-weight:500;letter-spacing:-2px;margin-top:2px">S<span style="color:#d35400;line-height:12px">war</span>-607D<span style="font-size:12px;position:relative;top:-15px;left:-3px;">™</span></p>
+			<p>Combining a sophisticated music streamer and powerful 60-watt-per-channel amplifier in one super-stylish component, the SWAR-607D Streaming Amplifier is made for the way people listen to music today. The SWAR-607D is based on the acclaimed Moode music platform, which has integrated support for dozens of streaming services.</p>
 			<h4>Release Information</h4>
-			<ul>
-				<li>Release: 8.0.2 2022-03-25</li> <!-- NOTE: getMoodeRel() parses this  -->
+			<!-- <ul>
+				<li>Release: 8.0.2 2022-03-25</li> 
 				<li>Maintainer: Tim Curtis &copy; 2014</li>
 				<li>Documentation: <a class="moode-about-link" href="./relnotes.txt" target="_blank">View release notes,</a>&nbsp<a class="moode-about-link" href="./setup.txt" target="_blank">View setup guide</a></li>
 				<li>Contributors: <a class="moode-about-link" href="./CONTRIBS.html" target="_blank">View contributors</a></li>
 				<li>License: <a class="moode-about-link" href="./COPYING.html" target="_blank">View GPLv3</a></li>
-			</ul>
+			</ul> -->
 		<p>
-			<h4>Platform Information</h4>
+			<!-- <h4>Platform Information</h4>
 			<ul>
 				<li>RaspiOS: <span id="sys-raspbian-ver"></span></li>
 				<li>Linux kernel: <span id="sys-kernel-ver"></span></li>
 				<li>Platform: <span id="sys-hardware-rev"></span></li>
 				<li>Architecture: <span id="sys-processor-arch"></span></li>
 				<li>MPD version: <span id="sys-mpd-ver"></span></li>
-			</ul>
+			</ul> -->
 		</p>
 	</div>
 	<div class="modal-footer">
